@@ -166,7 +166,7 @@ section.featured .card {
 
 section.featured .card::before {
   content: "";
-  width: 278px;
+  width: 271px;
   height: 400px;
   top: 43px;
   left: 27px;
@@ -344,10 +344,6 @@ section.subscribe .card-subscribe form .btn::after {
   }
   section.reason ul li {
     font-size: 22px;
-  }
-  section.featured .card::before {
-    content: "";
-    width: 321px;
   }
   section.subscribe .card-subscribe {
     height: 230px;
