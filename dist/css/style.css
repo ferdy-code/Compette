@@ -374,4 +374,10 @@ section.subscribe .card-subscribe form .btn::after {
     width: 120px;
   }
 }
+
+@media (min-width: 992px) {
+  nav.navbar {
+    background: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
